@@ -18,4 +18,9 @@ public class MathCal {
 	 public Integer sum(int numA,int numB) {
         return numA-numB;
     }
+	
+	//850 smlz  你二个菜逼这个方法都不会写
+    public Integer dev(int numA,int numB) {
+        return numA/numB;
+    }
 }
