@@ -21,6 +21,7 @@ public class MathCal {
 	
 	//850 smlz  你二个菜逼这个方法都不会写
     public Integer dev(int numA,int numB) {
+	    System.out.println(numA);
         return numA/numB;
     }
 }
