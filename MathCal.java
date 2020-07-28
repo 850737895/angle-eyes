@@ -13,4 +13,9 @@ public class MathCal {
     public Integer add(int numA,int numB) {
         return numA+numB;
     }
+	
+	//add by git smlz
+	 public Integer sum(int numA,int numB) {
+        return numA-numB;
+    }
 }
